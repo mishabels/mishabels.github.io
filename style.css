@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=WDXL+Lubrifont+TC&display=swap');
+.logo{
+    width: 100px;
+    height: 90px;
+}
+
+.body{
+    width: 1200px;
+    margin: 0 auto;
+    
+}
+body{
+    font-family: "WDXL Lubrifont TC", sans-serif;
+    background-image: url('/rustic-bread-bakery-background_776894-183514.avif');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.das{
+    background-color: black;
+    color: aliceblue ;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.S{
+    width: 200px;
+    height: 200px;
+}
+.V{
+    width: 200px;
+    height: 200px;}
+.catalog{
+    text-align: center;
+}
+.L{
+width: 200px;
+height: 200px;} 
+.main{
+    text-align: center;
+}
+.list{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+button {
+    appearance: none;
+    border: 0;
+    border-radius: 5px;
+    background: #4676D7;
+    color: #fff;
+    padding: 8px 16px;
+    font-size: 16px;
+      font-family: "WDXL Lubrifont TC", sans-serif;
+  }   
+a{
+    color: #000;
+    text-decoration: none;
+}
+.ryt{
+    margin-right: 20px;
+}
+.logo{
+    border-radius: 460px;
+}
+.item img{
+    border-radius: 30px;
+    width: 300px;
+    height: 250px;
+}
+.text{
+    width: 500px;
+    margin: 20px auto;
+}
